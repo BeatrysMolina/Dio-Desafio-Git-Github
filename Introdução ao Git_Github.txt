@@ -1,0 +1,11 @@
+Link para download do Git: https://git-scm.com/download/win
+
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos do terminal:
+
+- cd+Nome da pasta -> abre a pasta selecionada;
+- ls -> Detalha o conteúdo da pasta
+- ls -a -> Mostra o conteúdo visivel e oculto da pasta
+- mkdir -> Cria uma pasta
+- cd .. -> Retorna para pasta anterior
